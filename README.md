@@ -1,5 +1,6 @@
 # Proyecto-Final
 Welcome to the repository for the final project of my Macroeconomics course. This project involves replicating and analyzing several influential macroeconomic models using MATLAB. The repository contains MATLAB code, log files, and a detailed analysis of the results in a PDF document.
+
 **Models Replicated**
 1. Hansen and Wright (1992) RBC Extensions
   This model extends the standard Real Business Cycle (RBC) framework by incorporating additional elements to better capture empirical observations.
