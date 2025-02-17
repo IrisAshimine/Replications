@@ -1,5 +1,5 @@
 # Replications - Final project
-Welcome to the repository for the final project of our Macroeconomics II course. This project involves replicating and analyzing several macroeconomic models using Dynare. The repository contains Dynare code, log files, and a detailed analysis of the results in a PDF document.
+This is the repository for the final project of my Macroeconomics II course. This project involves replicating and analyzing several macroeconomic models using Dynare. The repository contains Dynare code, log files, and a detailed analysis of the results in a PDF document.
 
 **Models Replicated**
   
